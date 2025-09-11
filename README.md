@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/AnteTeno/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AnteTeno/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
