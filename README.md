@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AnteTeno/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1894-merge-strings-alternately](https://github.com/AnteTeno/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2887-sort-vowels-in-a-string](https://github.com/AnteTeno/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AnteTeno/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/AnteTeno/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
