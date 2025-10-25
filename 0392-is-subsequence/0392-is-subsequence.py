@@ -10,7 +10,8 @@ class Solution(object):
 
         if not s:
             return True
-
+        if len(s) > len(t):
+            return False
         while i < len(s) and j < len(t):
             if s[i] == t[j]:
                 i += 1
