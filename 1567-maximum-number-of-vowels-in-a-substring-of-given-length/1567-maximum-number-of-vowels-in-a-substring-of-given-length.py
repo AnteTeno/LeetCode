@@ -1,3 +1,4 @@
+
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
         slist = list(s)
@@ -6,8 +7,13 @@ class Solution:
         n = len(s)
 
         for i in range(k, n):
-            nextChar = sum(1 for ch in slist[i] if ch in "aeiou")
-            leavingChar = sum(1 for ch in slist[i - k] if ch in "aeiou")
+            nextChar = 0
+            leavingChar = 0
+            if slist[i] in "aeiou":
+                nextChar = 1
+            if slist[i - k] in "aeiou":
+                leavingChar = 1
+
             currentSum += nextChar - leavingChar
             maxSum = max(currentSum, maxSum)
 
